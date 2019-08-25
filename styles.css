@@ -1,0 +1,38 @@
+body{
+ background-image: url("image.jpg");
+  font-style: all;
+  font-size: 40px;
+}
+.container{
+	background-color:#eeff41;
+	width:55%;
+	margin-left: auto;
+	margin-right: auto;
+	padding:20px;
+	margin-top: 10%;
+	border-radius: 10px;
+
+}.button {
+  background: teal;
+  width: 190px;
+  padding: 8px 0;
+  border-radius: 5px;
+
+}
+.curr{
+   background-color: lightblue;
+   width: 30%;
+   height: 50%;
+
+
+
+}
+input[type=text], select {
+  width: 30%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
